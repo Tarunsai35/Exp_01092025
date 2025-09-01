@@ -9,4 +9,8 @@ public class Demo {
 		System.out.println("hii");
 	}
 	
+	@Test
+	public void main1() {
+		System.out.println("hello");
+	}
 }
