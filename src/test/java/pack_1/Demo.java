@@ -13,4 +13,11 @@ public class Demo {
 	public void main1() {
 		System.out.println("hello");
 	}
+	
+	@Test
+	public void main2() {
+		System.out.println("Second device setup done");
+	}
+	
+	
 }
