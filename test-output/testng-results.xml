@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-09-02T11:52:26 IST" name="Default suite" finished-at="2025-09-02T11:52:27 IST" duration-ms="603">
+  <suite started-at="2025-09-02T23:41:00 IST" name="Default suite" finished-at="2025-09-02T23:41:00 IST" duration-ms="91">
     <groups>
     </groups>
-    <test started-at="2025-09-02T11:52:26 IST" name="Default test" finished-at="2025-09-02T11:52:27 IST" duration-ms="603">
-      <class name="pack_1.Demo">
-        <test-method signature="main2()[pri:0, instance:pack_1.Demo@15bb5034]" started-at="2025-09-02T11:52:27 IST" name="main2" finished-at="2025-09-02T11:52:27 IST" duration-ms="33" status="PASS">
+    <test started-at="2025-09-02T23:41:00 IST" name="Default test" finished-at="2025-09-02T23:41:00 IST" duration-ms="91">
+      <class name="zTestpackage.Demo">
+        <test-method signature="main2()[pri:0, instance:zTestpackage.Demo@752325ad]" started-at="2025-09-02T23:41:00 IST" name="main2" finished-at="2025-09-02T23:41:00 IST" duration-ms="17" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- main2 -->
-      </class> <!-- pack_1.Demo -->
+      </class> <!-- zTestpackage.Demo -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

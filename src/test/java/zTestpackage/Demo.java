@@ -1,4 +1,4 @@
-package pack_1;
+package zTestpackage;
 
 import org.testng.annotations.Test;
 
